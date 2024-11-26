@@ -5,3 +5,5 @@ title: "TestQuartoGHActions"
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+Let's check if actions does the job.
